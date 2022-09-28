@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GirishJayakumar
-- 👀 I’m interested in coding, debate, travelling, and challenges. 
+- 👀 I’m interested in coding, machine learning, travelling, and challenges. 
 - 🌱 I’m currently learning Deep Learning, Natural Language Processing, and Tensorflow. 
 - 📫 How to reach me: Linkedin @GirishJayakumar
 
