@@ -1,1 +1,1 @@
-
+Machine Learning Algorithm Code for Capstone Project. This project focuses on time series forecasting of high volume and low volume stocks in the NASDAQ index using Autoregressive Integrated Moving Average, Random Forest, and Long-short term memory neural network. 
